@@ -1,4 +1,4 @@
-schema: https://api-sa-east-1.graphcms.com/v2/cl4ofdtr9004l01z4bmsjhl7i/master
+schema: https://api-sa-east-1.hygraph.com/v2/cl4ofdtr9004l01z4bmsjhl7i/master
 
 documents: './src/graphql/**/*.graphql'
 
